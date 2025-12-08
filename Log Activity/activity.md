@@ -11,7 +11,7 @@ Berikut adalah rekam jejak pengerjaan tugas besar kelompok kami:
 | 5 | **Muhammad Nurikhsan** | Page 1. Focus Time | <img src="../images/Pekerjaan Tugas/Page 1 Focus Time.png" width="200" alt=""> |
 | 6 | **Muhammad Romadhon Santoso** | Welcome Screen 1 | <img src="../images/Awal Login/welcome-screen1/Welcome-Screen1.png" width="200" alt=""> |
 | 6 | **Muhammad Romadhon Santoso** | Welcome Screen 2 | <img src="../images/welcome-screen2/Welcome-Screen2.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
+| 7 | **Muhammad Romadhon Santoso** | Welcome Screen 3 | <img src="../images/welcome-screen3/Welcome-Screen3.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
