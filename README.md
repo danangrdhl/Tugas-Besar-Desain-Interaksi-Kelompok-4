@@ -38,7 +38,7 @@ Proyek ini merupakan hasil transformasi desain dari tahap *Low-Fidelity* menjadi
 ---
 
 ## 🔄 User Flow (Alur Pengguna)
-   ![Diagram User Flow](images/userflow.png)
+   ![Diagram User Flow](Aset/userflow.png)
 
 ---
 
@@ -58,4 +58,4 @@ Desain ini dibangun dengan filosofi kenyamanan dan fokus:
 ---
 
 ## 📱 Pratinjau (Preview)
-![Tampilan Pratinjau](images/pratinjau.png)
+![Tampilan Pratinjau](Aset/pratinjau.png)
