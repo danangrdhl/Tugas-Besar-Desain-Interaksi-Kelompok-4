@@ -19,8 +19,8 @@
 
 ## 🔗 Tautan Proyek (Project Links)
 
-* **Desain & Prototype (Figma):** [Klik disini untuk melihat Figma]((https://www.figma.com/proto/SKF1KhlQOOvrAKbcfqAe8P/Interaksi-Desain-Kel-4-RB?node-id=378-90&p=f&t=mcQrOWNkhKiArsCO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=378%3A80))
-* **Dokumen Proposal (Google Docs):** [Klik disini untuk melihat Proposal]((https://docs.google.com/document/d/1lOT-UJVU59mzmzdC4x3UvTRJYZSzExMVFPvG-DAc_oM/edit?usp=sharing))
+* **Desain & Prototype (Figma):** [Klik disini untuk melihat Figma](https://www.figma.com/proto/SKF1KhlQOOvrAKbcfqAe8P/Interaksi-Desain-Kel-4-RB?node-id=378-90&p=f&t=mcQrOWNkhKiArsCO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=378%3A80)
+* **Dokumen Proposal (Google Docs):** [Klik disini untuk melihat Proposal](https://docs.google.com/document/d/1lOT-UJVU59mzmzdC4x3UvTRJYZSzExMVFPvG-DAc_oM/edit?usp=sharing)
 
 ---
 
