@@ -13,7 +13,7 @@
 | 5 | **Muhammad Nurikhsan** | 123140057 |
 
 **Dosen Pengampu:** Amirul Iqbal, S.Kom., M.Eng.  
-**Asisten:** Bang Fauzi
+**Asisten:** Muhammad Fauzi Azizi
 
 ---
 
@@ -22,7 +22,7 @@
 * **Desain & Prototype (Figma):** [Klik disini untuk melihat Figma](https://www.figma.com/proto/SKF1KhlQOOvrAKbcfqAe8P/Interaksi-Desain-Kel-4-RB?node-id=378-90&p=f&t=mcQrOWNkhKiArsCO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=378%3A80)
 * **Dokumen Proposal (Google Docs):** [Klik disini untuk melihat Proposal](https://docs.google.com/document/d/1lOT-UJVU59mzmzdC4x3UvTRJYZSzExMVFPvG-DAc_oM/edit?usp=sharing)
 
----
+* **Dokumen Laporan Akhir (Google Docs):** [Klik disini untuk melihat Laporan] (https://docs.google.com/document/d/1FEk3rj8l8eNOev-Mv5IWYgtIGjX04BTB2MRBh33JmKo/edit?usp=sharing)
 
 ## 🍎 Tentang Academora
 
