@@ -22,7 +22,7 @@
 * **Desain & Prototype (Figma):** [Klik disini untuk melihat Figma](https://www.figma.com/proto/SKF1KhlQOOvrAKbcfqAe8P/Interaksi-Desain-Kel-4-RB?node-id=378-90&p=f&t=mcQrOWNkhKiArsCO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=378%3A80)
 * **Dokumen Proposal (Google Docs):** [Klik disini untuk melihat Proposal](https://docs.google.com/document/d/1lOT-UJVU59mzmzdC4x3UvTRJYZSzExMVFPvG-DAc_oM/edit?usp=sharing)
 
-* **Dokumen Laporan Akhir (Google Docs):** [Klik disini untuk melihat Laporan] (https://docs.google.com/document/d/1FEk3rj8l8eNOev-Mv5IWYgtIGjX04BTB2MRBh33JmKo/edit?usp=sharing)
+* **Dokumen Laporan Akhir (Google Docs):** [Klik disini untuk melihat Laporan](https://docs.google.com/document/d/1FEk3rj8l8eNOev-Mv5IWYgtIGjX04BTB2MRBh33JmKo/edit?usp=sharing)
 
 ## 🍎 Tentang Academora
 
@@ -46,10 +46,15 @@ Proyek ini merupakan hasil transformasi desain dari tahap *Low-Fidelity* menjadi
 
 Desain ini dibangun dengan filosofi kenyamanan dan fokus:
 
-* **Primary Color:** Soft Tomato Red (`#F26A4F`) - Melambangkan energi fokus.
-* **Secondary Color:** Sage Green (`#6A9955`) - Melambangkan kesegaran dan istirahat.
-* **Background:** Warm White / Peach - Memberikan kesan "Safe Space" untuk belajar.
-
+* **Primary Color:** ![Soft Tomato Red](https://img.shields.io/badge/Soft_Tomato_Red-F26A4F)  
+  *Melambangkan energi fokus.*
+  
+* **Secondary Color:** ![Sage Green](https://img.shields.io/badge/Sage_Green-6A9955)  
+  *Melambangkan kesegaran dan istirahat.*
+  
+* **Background:** ![Warm White](https://img.shields.io/badge/Warm_White-FAFAFA?labelColor=grey) / ![Peach](https://img.shields.io/badge/Peach-FFD6CC?labelColor=grey)  
+  *Memberikan kesan "Safe Space" untuk belajar.*
+  
 ---
 
 ## 📱 Pratinjau (Preview)
