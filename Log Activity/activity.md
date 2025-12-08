@@ -12,8 +12,8 @@ Berikut adalah rekam jejak pengerjaan tugas besar kelompok kami:
 | 6 | **Muhammad Romadhon Santoso** | Welcome Screen 1 | <img src="../images/Awal Login/welcome-screen1/Welcome-Screen1.png" width="200" alt=""> |
 | 6 | **Muhammad Romadhon Santoso** | Welcome Screen 2 | <img src="../images/Awal Login/welcome-screen2/Welcome-Screen2.png" width="200" alt=""> |
 | 7 | **Muhammad Romadhon Santoso** | Welcome Screen 3 | <img src="../images/Awal Login/welcome-screen3/Welcome-Screen3.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
+| 8 | **Muhammad Romadhon Santoso** | Sign Up Form | <img src="../images/Awal Login/signup/Sign Up Form.png" width="200" alt=""> |
+| 9 | **Muhammad Romadhon Santoso** | Login Form | <img src="../images/Awal Login/login/Login Form.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
 
