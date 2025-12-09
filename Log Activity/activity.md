@@ -15,11 +15,6 @@ Berikut adalah rekam jejak pengerjaan tugas besar kelompok kami:
 | 9 | **Muhammad Romadhon Santoso** | Sign Up Form | <img src="../images/Awal Login/signup/Sign Up Form.png" width="200" alt=""> |
 | 10 | **Muhammad Romadhon Santoso** | Login Form | <img src="../images/Awal Login/login/Login Form.png" width="200" alt=""> |
 | 11 | **Muhammad Romadhon Santoso** | Menu Login | <img src="../images/Awal Login/Menu Login/Menu Login.png" width="200" alt=""> |
-| 1 | **Sigit Kurnia Hartawan** | Page Home | <img src="../images/Tampilan Depan/Page Menu Utama.png" width="200" alt=""> |
-| 1 | **Sigit Kurnia Hartawan** | Page Berita 1 | <img src="../images/Tampilan Depan/Page Berita 1.png" width="200" alt=""> |
-| 1 | **Sigit Kurnia Hartawan** | Page Berita 2 | <img src="../images/Tampilan Depan/Page Berita 2.png" width="200" alt=""> |
-| 1 | **Sigit Kurnia Hartawan** | Page Berita 3 | <img src="../images/Tampilan Depan/Page Berita 3.png" width="200" alt=""> |
-| 1 | **Sigit Kurnia Hartawan** | Page Berita 4 | <img src="../images/Tampilan Depan/Berita 4.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |

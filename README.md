@@ -23,9 +23,6 @@
 * **Dokumen Proposal (Google Docs):** [Klik disini untuk melihat Proposal](https://docs.google.com/document/d/1lOT-UJVU59mzmzdC4x3UvTRJYZSzExMVFPvG-DAc_oM/edit?usp=sharing)
 
 * **Dokumen Laporan Akhir (Google Docs):** [Klik disini untuk melihat Laporan](https://docs.google.com/document/d/1FEk3rj8l8eNOev-Mv5IWYgtIGjX04BTB2MRBh33JmKo/edit?usp=sharing)
-* **Dokumen Asis 1 (Google Docs):** [Klik disini untuk melihat Asis 1](https://docs.google.com/document/d/1VogYesY2Duw4tB-fOggwFzf58lZsRKJduwAIrYN7M4U/edit?tab=t.0)
-* **Dokumen Asis 2 (Google Docs):** [Klik disini untuk melihat Asis 2](https://docs.google.com/document/d/1H7SqObf__ZzwH8W-I12T9i94lonFnIGF7eR2CbKm3x8/edit?tab=t.0)
-* **Dokumen Asis 3 (Google Docs):** [Klik disini untuk melihat Asis 3](https://docs.google.com/document/d/1KqNHN8vIxs48vbX38oiq_1WQ6gdMKzl_QqBwPWQkA68/edit?tab=t.0)
 
 ## 🍎 Tentang Academora
 
