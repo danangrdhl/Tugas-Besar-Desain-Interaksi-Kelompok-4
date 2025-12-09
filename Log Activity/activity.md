@@ -28,7 +28,8 @@ Berikut adalah rekam jejak pengerjaan tugas besar kelompok kami:
 | 22 | **Muhammad Nurikhsan** | Page Set Timer 35 Menit | <img src="../images/Pekerjaan Tugas/Page Set Timer 35 Menit/Focus Time 35 menit.png" width="200" alt=""> |
 | 23 | **Muhammad Nurikhsan** | Page Distraction | <img src="../images/Pekerjaan Tugas/Page Distraction/Distraction.png" width="200" alt=""> |
 | 24 | **Muhammad Nurikhsan** | Page Rest Time | <img src="../images/Pekerjaan Tugas/Page Rest Time/Rest Time.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
+| 25 | **Aprililianti** | Page Tampilan Profil | <img src="../images/aset profil/Tampilan Profil.png" width="200" alt=""> |
+| 26 | **Aprililianti** | Page Detail Profil | <img src="../images/aset profil/Detail Profil.png" width="200" alt=""> |
+| 27 | **Aprililianti** | Page log out Profile | <img src="../images/aset profil/Dlog out Profile.png" width="200" alt=""> |
 
 Sebelum push pastiin juga kalian isi log activitynya ya
