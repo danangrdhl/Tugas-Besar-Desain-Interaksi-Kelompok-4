@@ -24,6 +24,13 @@
 
 * **Dokumen Laporan Akhir (Google Docs):** [Klik disini untuk melihat Laporan](https://docs.google.com/document/d/1FEk3rj8l8eNOev-Mv5IWYgtIGjX04BTB2MRBh33JmKo/edit?usp=sharing)
 
+* **Dokumen Asistensi 1 (Google Docs):** [Klik disini untuk melihat ](https://docs.google.com/document/d/1VogYesY2Duw4tB-fOggwFzf58lZsRKJduwAIrYN7M4U/edit?tab=t.0#heading=h.osbottwh8xp)
+
+* **Dokumen Asistensi 2  (Google Docs):** [Klik disini untuk melihat ](https://docs.google.com/document/d/1H7SqObf__ZzwH8W-I12T9i94lonFnIGF7eR2CbKm3x8/edit?tab=t.0#heading=h.osbottwh8xp)
+
+* **Dokumen Asistensi 3 (Google Docs):** [Klik disini untuk melihat ](https://docs.google.com/document/d/1KqNHN8vIxs48vbX38oiq_1WQ6gdMKzl_QqBwPWQkA68/edit?tab=t.0#heading=h.osbottwh8xp)
+
+* **Link Prototype (Figma):** [Klik disini untuk melihat Figma](https://www.figma.com/proto/SKF1KhlQOOvrAKbcfqAe8P/Interaksi-Desain-Kel-4-RB?node-id=0-1&p=f&t=yOkkgW12GPoQpimH-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=378%3A80)
 ## 🍎 Tentang Academora
 
 **Academora** adalah aplikasi manajemen waktu belajar yang dirancang dengan pendekatan *User-Centered Design*. Aplikasi ini mengimplementasikan metode **Pomodoro** untuk membantu mahasiswa meningkatkan fokus dan produktivitas, sekaligus menjaga keseimbangan kesehatan mental dengan jadwal istirahat yang teratur.
