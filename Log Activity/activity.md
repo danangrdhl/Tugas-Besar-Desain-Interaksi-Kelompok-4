@@ -20,12 +20,14 @@ Berikut adalah rekam jejak pengerjaan tugas besar kelompok kami:
 | 14 | **Sigit Kurnia Hartawan** | Page Berita 2 | <img src="../images/Tampilan Depan/Page Berita 2.png" width="200" alt=""> |
 | 15 | **Sigit Kurnia Hartawan** | Page Berita 3 | <img src="../images/Tampilan Depan/Page Berita 3.png" width="200" alt=""> |
 | 16 | **Sigit Kurnia Hartawan** | Page Berita 4 | <img src="../images/Tampilan Depan/Berita 4.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
-| 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
+| 17 | **Muhammad Nurikhsan** | Page Focus Time | <img src="../images/Pekerjaan Tugas/Page Focus Time/Page 1 Focus Time.png" width="200" alt=""> |
+| 18 | **Muhammad Nurikhsan** | Page Set Timer | <img src="../images/Pekerjaan Tugas/Page Set Timer/Page Set Timer.png" width="200" alt=""> |
+| 19 | **Muhammad Nurikhsan** | Page Set Timer 15 Menit | <img src="../images/Pekerjaan Tugas/Page Set Timer 15 Menit/Focus Time 15 menit.png" width="200" alt=""> |
+| 20 | **Muhammad Nurikhsan** | Page Set Timer 25 Menit | <img src="../images/Pekerjaan Tugas/Page Set Timer 25 Menit/Focus Time 25 menit.png" width="200" alt=""> |
+| 21 | **Muhammad Nurikhsan** | Page Set Timer 30 Menit | <img src="../images/Pekerjaan Tugas/Page Set Timer 30 Menit/Focus Time 30 menit.png" width="200" alt=""> |
+| 22 | **Muhammad Nurikhsan** | Page Set Timer 35 Menit | <img src="../images/Pekerjaan Tugas/Page Set Timer 35 Menit/Focus Time 35 menit.png" width="200" alt=""> |
+| 23 | **Muhammad Nurikhsan** | Page Distraction | <img src="../images/Pekerjaan Tugas/Page Distraction/Distraction.png" width="200" alt=""> |
+| 24 | **Muhammad Nurikhsan** | Page Rest Time | <img src="../images/Pekerjaan Tugas/Page Rest Time/Rest Time.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
 | 1 | **Contoh** | Contoh | <img src="../images/pratinjau.png" width="200" alt=""> |
 
