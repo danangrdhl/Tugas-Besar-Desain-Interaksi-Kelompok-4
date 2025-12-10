@@ -66,3 +66,6 @@ Desain ini dibangun dengan filosofi kenyamanan dan fokus:
 
 ## 📱 Pratinjau (Preview)
 ![Tampilan Pratinjau](Aset/pratinjau.png)
+
+## 📱 Tim Desain 
+![Tim Desain](Aset/Timdesain.png)
