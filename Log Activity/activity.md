@@ -32,4 +32,3 @@ Berikut adalah rekam jejak pengerjaan tugas besar kelompok kami:
 | 26 | **Aprililianti** | Page Detail Profil | <img src="../images/aset profil/Detail Profil.png" width="200" alt=""> |
 | 27 | **Aprililianti** | Page log out Profile | <img src="../images/aset profil/log out Profile.png" width="200" alt=""> |
 
-Sebelum push pastiin juga kalian isi log activitynya ya
